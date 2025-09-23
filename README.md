@@ -3,15 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sauzzswork" alt="sauzzswork" /></a> </p>
 
-- 🔭 I’m currently working on [Real Time Polling app](https://github.com/sauzzswork/Real-Time-Polling-App)
-
-- 🌱 I’m currently learning **Django,Flask,APIs,Express jS**
-
 - 👯 I’m looking to collaborate on **Some Good Software development Projects**
 
 - 👨‍💻 All of my projects are available at [https://sauzzswork.github.io/Saurav-portfolio/](https://sauzzswork.github.io/Saurav-portfolio/)
 
-- 💬 Ask me about **React , APIs ,AI and ML**
+- 💬 Ask me about **React , APIs ,AI and ML,Software and Web Development**
 
 - 📫 How to reach me **https://www.linkedin.com/in/saurav-mishra-b65355247/**
 
